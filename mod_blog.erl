@@ -8,4 +8,3 @@
 
 -mod_title("Blog").
 -mod_description("Adds a blog section to the site.").
--mod_prio(20).
