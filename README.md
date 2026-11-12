@@ -1,5 +1,12 @@
 # Blog module for Zotonic
 
+Note
+----
+
+Maintenance moved to private repository.
+
+
+
 A Zotonic blog as separate module. In contrast to the default skeleton blog, this makes it easier to add a blog section to your current site.
 
 Upon activation the module adds the blog at `yoursite.com/blog/`.
